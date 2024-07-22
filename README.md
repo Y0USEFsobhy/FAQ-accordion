@@ -27,6 +27,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 ### Screenshot
 ![desktop-design](https://github.com/user-attachments/assets/a57548e6-67a3-445c-a931-7bf0a8ccbfbb)
 
+### Links
 
-#FAQ-accordion
-live site : https://y0usefsobhy.github.io/FAQ-accordion/FAQs/
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://y0usefsobhy.github.io/FAQ-accordion/FAQs/))
+

@@ -25,7 +25,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![](./screenshot.jpg)
+![](./FAQs\faq-accordion-main\design)
 
 
 #FAQ-accordion

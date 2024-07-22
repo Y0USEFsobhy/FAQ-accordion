@@ -29,5 +29,5 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://y0usefsobhy.github.io/FAQ-accordion/FAQs/))
+- Live Site URL:(https://y0usefsobhy.github.io/FAQ-accordion/FAQs/))
 

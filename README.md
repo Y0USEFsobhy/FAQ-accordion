@@ -16,7 +16,8 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-  ## The challenge
+
+  # The challenge
   Users should be able to:
 
 - Hide/Show the answer to a question when the question is clicked

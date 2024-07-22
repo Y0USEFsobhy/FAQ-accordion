@@ -1,4 +1,3 @@
-![desktop-design](https://github.com/user-attachments/assets/a57548e6-67a3-445c-a931-7bf0a8ccbfbb)
 # Frontend Mentor - FAQ accordion solution
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -26,7 +25,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-![](./FAQs\faq-accordion-main\design)
+![desktop-design](https://github.com/user-attachments/assets/a57548e6-67a3-445c-a931-7bf0a8ccbfbb)
 
 
 #FAQ-accordion
